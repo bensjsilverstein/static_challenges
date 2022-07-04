@@ -1,0 +1,29 @@
+header {
+  display: flex;
+  color: white;
+  background-color: red;
+  font-size: 28px;
+}
+
+#headerLink {
+  color: white;
+  font-size: 12px;
+}
+
+#subHeader {
+  display: flex;
+  color: white;
+  background-color: #808080;
+}
+
+footer {
+
+}
+
+#leftColumn{
+
+}
+
+#rightColumn{
+  
+}
